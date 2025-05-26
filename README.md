@@ -38,7 +38,6 @@
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder40425&show_icons=true&theme=github_dark)
 
 ![Yash's GitHub Streak](https://streak-stats.demolab.com/?user=coder40425&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder40425&layout=compact&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coder40425&theme=react-dark)
