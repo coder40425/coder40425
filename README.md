@@ -39,6 +39,7 @@
 
 ![Yash's GitHub Streak](https://streak-stats.demolab.com/?user=coder40425&theme=radical)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=coder40425&color=blue)
 ---
 
 ## 🔗 Connect with Me
