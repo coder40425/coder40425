@@ -37,6 +37,8 @@
 ## 📈 GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder40425&show_icons=true&theme=github_dark)
 
+![Yash's GitHub Streak](https://streak-stats.demolab.com/?user=coder40425&theme=radical)
+
 ---
 
 ## 🔗 Connect with Me
