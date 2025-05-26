@@ -42,7 +42,6 @@
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yash-kumar-singh-18843232a)
 - [LeetCode](https://leetcode.com/u/coderx404/)
-- **Email:** yashsingh1610@gmail.com
 
 ---
 
