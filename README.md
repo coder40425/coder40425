@@ -39,7 +39,10 @@
 
 ![Yash's GitHub Streak](https://streak-stats.demolab.com/?user=coder40425&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder40425&layout=compact&theme=radical)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=coder40425&color=blue)
+
 ---
 
 ## 🔗 Connect with Me
