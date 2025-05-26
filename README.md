@@ -41,6 +41,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder40425&layout=compact&theme=radical)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coder40425&theme=react-dark)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=coder40425&color=blue)
 
 ---
