@@ -23,8 +23,8 @@
 ## 📚 Learning Journey
 - ✅ C++ basics, STL, OOPs
 - 🔁 DSA daily practice on LeetCode
-- 🚧 Deepening CSS knowledge
-- 🔜 Next: JavaScript → React.js → Node.js + MongoDB
+- 🚧 Deepening JavaScript knowledge
+- 🔜 Next: React.js → Node.js + MongoDB
 
 ---
 
