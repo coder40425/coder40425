@@ -37,9 +37,8 @@
 ## 📈 GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder40425&show_icons=true&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder40425&theme=radical" alt="Yash's GitHub Streak"/>
-</p>
+![Yash's GitHub Streak](https://streak-stats.demolab.com/?user=coder40425&theme=radical&v=1)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder40425&layout=compact&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coder40425&theme=react-dark)
