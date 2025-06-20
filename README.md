@@ -31,6 +31,7 @@
 ## 📌 Repositories
 - [DSA-Leetcode-](https://github.com/coder40425/DSA-Leetcode-) – Solving Leetcode problems in C++
 - [30-DAYS-CPP-OOPS-STL-PRACTICE](https://github.com/coder40425/30-DAYS-CPP-OOPS-STL-PRACTICE) – 30-day C++ (OOPs + Stl) mastery plan
+- [WEB-DEV-PROJECTS](https://github.com/coder40425/WEB-DEV-PROJECTS) - My web development projects
 
 ---
 
