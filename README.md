@@ -15,7 +15,7 @@
 
 ## 🧠 Current Skills
 - **Languages:** C, C++
-- **Frontend (in progress):** HTML, CSS
+- **Frontend:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub, VS Code
 
 ---
