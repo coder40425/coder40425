@@ -37,10 +37,6 @@
 
 ## 📈 GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder40425&show_icons=true&theme=github_dark)
- 
-## 📅 GitHub Contribution Calendar
-
-![Yash's GitHub Chart](https://ghchart.rshah.org/2ECC71/coder40425)
 
 ---
 
