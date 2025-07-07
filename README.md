@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🎓 Second-year undergrad in **Chemical Engineering** at **NIT Durgapur (2024–28)**
 - 💻 Passionate about **Data Structures & Algorithms**, **Web Development**, and **CS fundamentals**
-- 📚 Learning **C++ for DSA** and building static websites with **HTML + CSS**
+- 📚 Learning **C++ for DSA** and building static websites with **HTML, CSS & JAVA SCRIPT**
 - 🛠️ Future roadmap includes **React.js**, **Node.js**, and **MongoDB**
 - 🎯 Goal: Become a solid **SDE** with strong problem-solving and full-stack skills
 
