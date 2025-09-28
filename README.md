@@ -1,30 +1,32 @@
 # Hello, I'm Yash Kumar Singh! 👋
 
-### B.Tech @ NIT Durgapur | Aspiring Software Engineer | C++ & Web Dev Enthusiast
+### B.Tech @ NIT Durgapur | Aspiring Software Engineer | MERN Stack Developer & DSA Enthusiast
 
 ---
 
 ## 🚀 About Me
-- 🎓 Second-year undergrad in **Chemical Engineering** at **NIT Durgapur (2024–28)**
-- 💻 Passionate about **Data Structures & Algorithms**, **Web Development**, and **CS fundamentals**
-- 📚 Learning **C++ for DSA** and building static websites with **HTML, CSS & JAVA SCRIPT**
-- 🛠️ Future roadmap includes **React.js**, **Node.js**, and **MongoDB**
-- 🎯 Goal: Become a solid **SDE** with strong problem-solving and full-stack skills
+- 🎓 Second-year undergrad in **Chemical Engineering** at **NIT Durgapur (2024–28)**  
+- 💻 Passionate about **Data Structures & Algorithms**, **Full-Stack Web Development**, and **CS fundamentals**  
+- 📚 Experienced in **MERN Stack**: React.js, Next.js, Node.js, Express.js, MongoDB, TailwindCSS, and real-time apps with Socket.io  
+- 🛠️ Skilled in **C++ for DSA**, backend development, and building responsive, real-time web applications  
+- 🎯 Goal: Become a strong **SDE** with solid **problem-solving** and **full-stack development** skills  
 
 ---
 
 ## 🧠 Current Skills
-- **Languages:** C, C++
-- **Frontend:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, VS Code
+- **Languages:** C, C++, JavaScript  
+- **Frontend:** React.js, Next.js, TailwindCSS  
+- **Backend:** Node.js, Express.js, Socket.io  
+- **Database:** MongoDB  
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Render  
 
 ---
 
 ## 📚 Learning Journey
-- ✅ C++ basics, STL, OOPs
-- 🔁 DSA daily practice on LeetCode
-- 🚧 Deepening JavaScript knowledge
-- 🔜 Next: React.js → Node.js + MongoDB
+- 💼 **Experience:** Built full-stack web applications using **MERN Stack** with real-time features via **Socket.io**  
+- 🔁 **DSA Practice:** Actively solving problems on **LeetCode** to strengthen algorithms and problem-solving skills  
+- 🚀 **Current Focus:** Enhancing full-stack expertise, mastering responsive UI with **TailwindCSS**, and building scalable, secure applications  
+- 🎯 **Next Goals:** Work on advanced full-stack projects, optimize web app performance, and tackle more complex DSA challenges
 
 ---
 
