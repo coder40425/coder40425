@@ -32,8 +32,9 @@
 
 ## 📌 Repositories
 - [DSA-Leetcode-Practice](https://github.com/coder40425/DSA-Leetcode-) – Solving Leetcode problems in C++
-- [30-DAYS-CPP-OOPS-STL-PRACTICE](https://github.com/coder40425/30-DAYS-CPP-OOPS-STL-PRACTICE) – 30-day C++ (OOPs + Stl) mastery plan
-- [SECURE-NOTES-APP](https://github.com/coder40425/Secure-Notes-App) - Secure application to store your personal notes safely
+- [30-DAYS-CPP-OOPS-STL-PRACTICE](https://github.com/coder40425/30-DAYS-CPP-OOPS-STL-PRACTICE) – 30-day C++ (OOPs + Stl) mastery plan.
+- [SECURE-NOTES-APP](https://github.com/coder40425/Secure-Notes-App) - Secure application to store your personal notes safely.
+- [EXPENSE-SPLITTER-APP](https://github.com/coder40425/Expense-Splitter-App) - A futuristic web app to split expenses with friends, colleagues, or trips.
 
 ---
 
