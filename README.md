@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Second-year **B.Tech in Chemical Engineering** at **NIT Durgapur (2024–28)**
+- 🎓 Second-year **B.Tech** at **NIT Durgapur (2024–28)**
 - 💻 Passionate about **Data Structures & Algorithms**, **Backend Engineering**, and **Full-Stack Development**
 - ⚙️ Experienced in building **scalable backend services and real-time applications**
 - 🛠️ Strong focus on **C++ for DSA**, API design, and performance optimization
